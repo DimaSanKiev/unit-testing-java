@@ -1,3 +1,5 @@
+package vending;
+
 public abstract class AbstractChooser {
     private final int maxRows;
     private final int maxColumns;

@@ -1,3 +1,5 @@
+package vending;
+
 public class Creditor {
     private int funds;
 

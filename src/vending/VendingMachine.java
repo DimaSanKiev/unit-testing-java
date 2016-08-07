@@ -1,3 +1,5 @@
+package vending;
+
 public class VendingMachine {
     private final Notifier notifier;
     private final AbstractChooser chooser;

@@ -1,3 +1,5 @@
+package vending;
+
 public class Item {
     private final String name;
     private final int wholesalePrice;
