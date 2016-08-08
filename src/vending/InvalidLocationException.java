@@ -1,6 +1,6 @@
 package vending;
 
-public class InvalidLocationException extends Throwable {
+public class InvalidLocationException extends Exception {
     public InvalidLocationException(String s) {
         super(s);
     }
