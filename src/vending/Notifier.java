@@ -1,5 +1,7 @@
 package vending;
 
-public interface Notifier {
+interface Notifier {
+
     void onSale(Item item);
+
 }
